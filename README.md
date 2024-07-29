@@ -1,6 +1,6 @@
 - 👋 Merhaba, ben Bushra
 - 👀 İlgi Alanlarım: Yazılım geliştirme, web geliştirme, 
-- 🌱 Şu Anda Öğreniyorum: Python ve JavaScript
+- 🌱 Şu Anda Öğreniyorum: Java  
 - 📫 Benimle iletişime geçin!(https://www.linkedin.com/in/bushrakurt/)
 
 
